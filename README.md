@@ -8,7 +8,7 @@ Here’s a short GitHub-style description:  A benchmark for evaluating DSA_MP pe
   - Metal 1 Value: **42 nm**
   - Metal 2 Value: **31.5 nm**
 
-- ## via generation
+## via generation
 
 - **via_x (vₓ)**: Via size along the x direction.  
   - Value: **21 nm**
