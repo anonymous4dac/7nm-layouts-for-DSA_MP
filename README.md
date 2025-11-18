@@ -1,5 +1,5 @@
 # 7nm-layouts-for-DSA_MP
-Here’s a short GitHub-style description:  A benchmark for evaluating DSA_MP performance at the 7 nm node, featuring 15 synthetic layouts and one real layout with full test datasets and design rules provided.
+A benchmark for evaluating DSA_MP performance at the 7 nm node, featuring 15 synthetic layouts with full test datasets and design rules provided. The industrial layout is subject to confidentiality constraints and is therefore not included in this repository.
 ## wire generation
 - **wire_cd (w)**: The critical dimension of metal wire shapes, defined by wire width.  
   - Value: **21 nm**
