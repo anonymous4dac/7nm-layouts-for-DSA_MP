@@ -19,5 +19,9 @@ A benchmark for evaluating DSA_MP performance at the 7 nm node, featuring 15 syn
 - **density (ρ)**: The probability of a via appearing at a candidate via location.  
   - Value: **0.5**
 
+- You can generate the training dataset using `layout_generator.py` in this repository:
+
+  ```bash
+  python layout_generator.py
 
 
