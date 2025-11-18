@@ -5,7 +5,8 @@ Here’s a short GitHub-style description:  A benchmark for evaluating DSA_MP pe
   - Value: **21 nm**
 
 - **track_pitch (p)**: The distance between adjacent wire tracks.  
-  - Value: **31.5 nm**
+  - Metal 1 Value: **42 nm**
+  - Metal 2 Value: **31.5 nm**
 
 - **min_t2t (t₁)**: The minimum line-end to line-end distance in each wire track.  
   - Value: **42 nm**
