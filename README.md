@@ -5,8 +5,7 @@ A benchmark for evaluating DSA_MP performance at the 7 nm node, featuring 15 syn
   - Value: **21 nm**
 
 - **track_pitch (p)**: The distance between adjacent wire tracks.  
-  - Metal 1 Value: **42 nm**
-  - Metal 2 Value: **31.5 nm**
+  - Value: **31.5 nm**
 
 ## via generation
 
